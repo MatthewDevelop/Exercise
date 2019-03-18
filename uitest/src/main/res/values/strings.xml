@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Uitest</string>
+    <string name="signal_strength">信号强度</string>
+    <string name="security_type">安全性</string>
+    <string name="password_input">密码</string>
+    <string name="add_network">添加网络</string>
+    <string name="wifi_showPassword">显示密码</string>
+    <string name="wifi_showAdvance">显示高级选项</string>
+    <string name="wifi_ipSetting">IP设置</string>
+    <string name="eth_con_type">连接模式</string>
+    <string name="eth_con_type_dhcp">DHCP</string>
+    <string name="eth_con_type_manual">静态IP</string>
+    <string name="eth_conf_perf_title">以太网配置</string>
+    <string name="eth_conf_summary">配置以太网设备</string>
+    <string name="eth_dev_list">以太网设备</string>
+    <string name="eth_dns1">首选DNS地址</string>
+    <string name="eth_dns2">备用DNS地址</string>
+    <string name="eth_gw">网关</string>
+    <string name="eth_ipaddr">IP地址</string>
+    <string name="eth_networkPrefixLength">网络前缀长度</string>
+</resources>

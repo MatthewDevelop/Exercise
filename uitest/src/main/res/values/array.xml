@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- wifi settings code change. -->
+    <string-array name="wifi_proxy_settings">
+        <!-- No HTTP proxy is used for the current wifi network [CHAR LIMIT=25] -->
+        <item>None</item>
+        <!-- Manual HTTP proxy settings are used for the current wifi network [CHAR LIMIT=25] -->
+        <item>Manual</item>
+    </string-array>
+
+
+    <string-array name="wifi_security_settings">
+        <item>None</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <!--<item>802.1x EAP</item>-->
+    </string-array>
+
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>STATIC</item>
+    </string-array>
+</resources>

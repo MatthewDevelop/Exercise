@@ -1,0 +1,4 @@
+include ':MultiDownload', ':AnimationMenu', ':ethernettest', ':testmoudle', ':mobilesafe', ':wifi_wps', ':uitest', ':listviewTest', ':memoryLeak', ':webservice', ':FileExplore', ':random', ':uncaughtexception', ':lbstest', ':viewpagerdemo', ':recyclerviewtest', ':fragmenttest', ':boardcasttest', ':datapersistencetest', ':vlcdemo', ':myvlcdemo'
+include ':dialogTest'
+
+include ':crashHandler'

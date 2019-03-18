@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestMoudle</string>
+    <string name="getInfo">抓取信息</string>
+    <string name="helloworld">Hello World!</string>
+    <string name="connectivity_ethernet">有线网络</string>
+    <string name="setting">Setting</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VLCDemo</string>
+    <string name="video_layout_loading">Loading</string>
+</resources>
